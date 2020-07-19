@@ -1,2 +1,3 @@
 # hello-world
-Just another one for a course
+Well this is for a course that I am going to launch
+Let's do it
